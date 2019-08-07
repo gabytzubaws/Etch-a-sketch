@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    text-align: center;
+    width: 100%
+
+}
+
+.grids{
+    border: 1px orange solid;
+}
+#reset{
+    display: inline-block;
+    margin: 10px;
+    border: 2px solid black;
+    width: 10%;
+    padding: 10px 0px;
+    border-radius: 5px;
+}
